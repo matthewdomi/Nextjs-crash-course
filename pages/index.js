@@ -31,3 +31,7 @@ export const getStaticProps = async () => {
     }
   }
 }
+
+
+
+// https://fakestoreapi.com/products 
